@@ -7,3 +7,7 @@ if Coraline_dad != "happy":
 else:
   print("This statement will never get printed. Coraline's dad is stuck in front of his silly computer for all eternity (and so am I)")
 ```
+## Here is a random task list for his poor tormented soul
+- [x] Type...
+- [ ] Oops Windows crashed, type it all out again...
+- [x] Cry in the bathroom
